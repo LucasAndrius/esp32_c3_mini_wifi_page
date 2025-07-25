@@ -6,11 +6,12 @@ Este projeto demonstra como criar uma interface web simples para **ligar e desli
 
 ## 📷 Imagens do Projeto
 
-<div align="center">
-  <img src="./imagens/esp32c3_pinos.jpg" alt="Pinos do ESP32-C3 Super Mini" width="400"/>
-  <br><br>
-  <img src="./imagens/projeto_pronto.jpg" alt="Projeto montado" width="400"/>
-</div>
+### 📌 Pinos do ESP32-C3 Super Mini
+![Pinos do ESP32-C3](esp32c3_pinos.jpg.avif)
+
+### 🔧 Projeto Montado
+![Projeto Pronto](projeto_pronto.jpg)
+
 
 ---
 
